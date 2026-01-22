@@ -30,7 +30,9 @@ I am a hands-on learner dedicated to building secure, scalable cloud infrastruct
 
 -------------------------
 
-##   Let's Connect!
+## Let's Connect
+
 - **LinkedIn:** [Abdirhman Ahmed](https://www.linkedin.com/in/abdirhman-ahmed-10ba073a3/)
-- **1-GitHub:** [a-cs0]((https://github.com/Abdirhman2))
-- **2-GitHub:** [a-cs0](https://github.com/a-cs0)
+- **GitHub (Primary):** [Abdirhman2](https://github.com/Abdirhman2)
+- **GitHub (Secondary):** [a-cs0](https://github.com/a-cs0)
+
